@@ -1,0 +1,33 @@
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.count-container {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    padding: 1rem;
+    text-align: center;
+    background-color: #01175E;
+    color: white;
+    text-shadow: 2px 2px 3px black;
+
+}
+
+.count-container p{
+    margin: 1rem 0 1rem 0;
+    font-size: 1.2rem;
+}
+
+.countdown-style{
+font-size: 1rem;
+}
+
+.count-container img {
+    width: 100%;
+}
