@@ -1,5 +1,5 @@
 // Set target date  (Cél dátum beállítása) 
-const countDownDate = new Date("2023-04-17T13:15:00Z").getTime();
+const countDownDate = new Date("2023-04-20T14:45:00Z").getTime();
 
 // Start a timer that updates the time every second (Időzítő indítása, amely minden másodpercben frissíti az időt)
 const x = setInterval(function() {
